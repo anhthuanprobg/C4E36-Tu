@@ -50,8 +50,3 @@
 //  }
 
 
-// #multi circle
-clear()
-for(let i=1, i<360; i++) {
-    
-}
