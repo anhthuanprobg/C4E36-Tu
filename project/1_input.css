@@ -1,0 +1,32 @@
+.box-input {
+    padding-left: 200px;
+    width: 100%; 
+    font-size:16px;    
+    
+}
+
+#input-1 {
+    width:1100px;
+    padding: 140px;
+    border: none;
+    border-radius: 10px;
+}
+
+#Btn-submit {
+    /* width: 100px; */
+    /* padding:10px; */
+    /* border:none; */
+    margin-left: 600px;
+    border-radius: 8px;
+    cursor: pointer;    
+}
+
+
+#share {
+    color: rgba(48, 252, 3);
+    margin-left: 220px;
+}
+
+/* .modal-container {
+
+} */
